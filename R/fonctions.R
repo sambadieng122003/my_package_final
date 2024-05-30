@@ -1,4 +1,8 @@
 # Importation des bibliotheques necessaires
+  install.packages("haven")
+# Ajoutez d'autres packages nécessaires ici
+install.packages("dplyr")
+install.packages("ggplot2")
 library(haven)
 library(readxl)
 library(dplyr)
